@@ -1,0 +1,17 @@
+**======================**
+Etapas de desenvolvimento de jogos
+
+1-Idealização
+2-Protótipo
+3-Fatia Vertical
+4-Início da produção
+5-Alpha-"Feature Complete"
+6-Beta-"Content Complete"
+7-Versão Final
+8-Lançamento
+
+**======================**
+Plataformas importantes:
+
+=> the insider gamer Brasil
+=> itch.io portifólio para jogos finalizados

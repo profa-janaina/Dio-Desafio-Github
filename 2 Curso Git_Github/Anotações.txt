@@ -1,0 +1,19 @@
+**======================**
+Comandos para configurar o Git
+
+Mostrar comandos => git config
+Configurar nome => git config --global user.name ''
+Configurar e-mail => git config --global user.email ''
+
+
+**======================**
+Comandos do terminal Git
+
+Criar diretório/pasta => mkdir NOME
+Mostrar se é um repositório Git => cd .git
+Mostrar área de preparação => git status
+Transformar em repositório Git => git init
+Adicionar todos os arquivos na área de preparação => git add .
+adiciona as alterações para o histórico do repositório => git commit -m 'MENSAGEM'
+Enviar para o repositório remoto => git push
+
